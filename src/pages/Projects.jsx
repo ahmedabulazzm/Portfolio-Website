@@ -42,7 +42,7 @@ class Projects extends Component {
 							    Smartbrain is a web application built using React, Node, Express and PostgreSQL.<br/>
 							    Smartbrain registers users to its database and lets them detect faces in their pictures using Clarifai API.<br/>
 							    </p>
-							    <a href="http://smartbrain-practice.herokuapp.com/" className="btn btn-primary">Preview</a>
+							    <a href="http://smartbrain-practice.herokuapp.com/" className="btn btn-primary" target="_blank">Preview</a>
 							  </div>
 							</div>
 			    		</div>
@@ -55,7 +55,7 @@ class Projects extends Component {
 							    Smartbrain is a web application built using React, Node, Express and PostgreSQL.<br/>
 							    Smartbrain registers users to its database and lets them detect faces in their pictures using Clarifai API.<br/>
 							    </p>
-							    <a href="http://smartbrain-practice.herokuapp.com/" className="btn btn-primary">Preview</a>
+							    <a href="http://smartbrain-practice.herokuapp.com/" className="btn btn-primary" target="_blank">Preview</a>
 							  </div>
 							</div>
 			    		</div>
@@ -68,7 +68,7 @@ class Projects extends Component {
 							    Smartbrain is a web application built using React, Node, Express and PostgreSQL.<br/>
 							    Smartbrain registers users to its database and lets them detect faces in their pictures using Clarifai API.<br/>
 							    </p>
-							    <a href="http://smartbrain-practice.herokuapp.com/" className="btn btn-primary">Preview</a>
+							    <a href="http://smartbrain-practice.herokuapp.com/" className="btn btn-primary" target="_blank">Preview</a>
 							  </div>
 							</div>
 			    		</div>
