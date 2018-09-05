@@ -8,7 +8,7 @@ class Home extends Component {
 		return(
 			<div className="bg">
 				<nav className="navbar navbar-expand-md navbar-dark">
-			      <p className="navbar-brand pl-4 pt-4">Portfolio | Ahmed <span className="gold">Abulazm</span></p>
+			      <p className="navbar-brand pl-4 pt-4">Portfolio | Homepage</p>
 			      <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
 			        <span className="navbar-toggler-icon"></span>
 			      </button>
