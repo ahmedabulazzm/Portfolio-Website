@@ -1,0 +1,15 @@
+.intro{
+	color: white;
+}
+
+.golden{
+	color: gold;
+}
+
+.bio{
+	background-color: black;
+	opacity: 0.8;
+	width: 80%;
+	margin:auto;
+	border-radius: 15px;
+}

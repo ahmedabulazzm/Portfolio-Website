@@ -1,0 +1,78 @@
+.bg .navbar-brand{
+	color: #D5CDCD;
+	cursor: default;
+}
+
+.bg .navbar-brand:hover{
+	color: #D5CDCD;
+}
+
+.nav-item{
+    text-align: right;
+}
+
+
+.avatar-img{
+  height: 350px;
+  padding-top: 2em;
+  display: block;
+  margin: auto;
+  padding-bottom: 3em;
+}
+
+.banner-text{
+  background-color: black;
+  opacity: 0.8;
+  width: 80%;
+  margin:auto;
+  border-radius: 15px;
+}
+
+.banner-text h1{
+  font-size: 50px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+}
+
+.banner-text hr{
+  border-top: 5px dotted white;
+  width: 50%;
+  margin: auto;
+}
+
+.banner-text p{
+  color: white;
+  font-size: 20px;
+  padding: 1em;
+  text-align: center;
+  padding-bottom: 5px;
+}
+
+.social-links{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  width: 20%;
+}
+
+.social-links i{
+  color: white;
+  font-size: 4em;
+  padding: 8px;
+  display: block;
+  margin: auto;
+}
+
+.social-links i:hover{
+	color:#356A9A;
+}
+
+@media only screen and (max-width: 600px) {
+    .banner-text h1{
+      font-size: 35px;
+    }
+    .banner-text p{
+      font-size: 15px;
+    }
+}
