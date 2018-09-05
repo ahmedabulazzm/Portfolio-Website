@@ -48,8 +48,8 @@ class About extends Component {
 			    			<p className="pl-md-3 text-center" style={{'color': 'white', 'fontSize': '20px'}}>
 			    				My name is Ahmed Sherif El Sayed Abulazm.<br/>
 			    				I'm an aspiring Full Stack Web Developer from 6 October, Egypt.<br/><br/>
-			    				Excellent knowledge in:<br/> HTML | CSS | JavaScript | Bootstrap | ReactJS | Node.js | Express | PostgreSQL<br/><br/>
-								Decent knowledge in: Java | C# | C++<br/><br/>
+			    				<span className="golden">Decent knowledge in:</span><br/> HTML | CSS | JavaScript | Bootstrap | ReactJS | Node.js | Express | PostgreSQL<br/><br/>
+								<span className="golden">Familiar with:</span><br/> Java | C# | C++<br/><br/>
 								<span className="golden">Fluent in:</span><br/>
 								- Arabic<br/>
 								- English<br/><br/>
